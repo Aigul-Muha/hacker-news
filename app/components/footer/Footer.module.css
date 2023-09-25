@@ -1,0 +1,33 @@
+.footer {
+  width: 80%;
+  margin: 0 auto;
+  background-color: beige;
+  padding: 10px 5px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  gap: 10px;
+  margin-bottom: 10px;
+}
+
+.line {
+  width: 100%;
+  height: 1px;
+  background-color: orangered;
+}
+
+.text {
+  font-size: 13px;
+}
+
+.nav {
+  display: flex;
+  gap: 10px;
+  font-size: 11.5px;
+}
+
+.nav a {
+  text-decoration: none;
+  color: black;
+  display: flex;
+}
